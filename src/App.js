@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
     <div>
       <Header></Header>
-      <Banner></Banner>
+      {/* <Banner></Banner> */}
        <Mid></Mid>
       {/* <Footer></Footer>  */}
       
